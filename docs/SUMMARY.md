@@ -1,0 +1,47 @@
+# Summary
+
+- [首页](index.md)
+- 快速开始
+    - [命令行接口 (CLI)](getting-started/cli.md)
+    - [从 MkDocs 迁移到 Zensical](getting-started/migration.md)
+    - [5 分钟快速开始](getting-started/quick-start.md)
+- 核心教程
+    - [Zensical 博客系统完全指南](tutorials/blog-tutorial.md)
+    - [zensical.toml 配置详解](tutorials/configuration.md)
+    - [GLightbox 图片灯箱](tutorials/glightbox.md)
+    - [图片配置](tutorials/images.md)
+    - [Markdown 扩展使用](tutorials/markdown-extensions.md)
+    - [Zensical Studio 使用指南](tutorials/studio.md)
+    - [主题定制指南](tutorials/theme-customization.md)
+    - [在 Zensical 中使用 Markdown 高效写作](tutorials/zensical-markdown-tip.md)
+- 博客
+    - 部署指南
+        - [使用 Cloudflare Pages 托管 Zensical 站点](blog/deployment/cloudflare-pages.md)
+        - [使用 EdgeOne Pages 托管 Zensical 站点](blog/deployment/edgeone-pages.md)
+        - [GitHub Pages 部署](blog/deployment/github-pages.md)
+        - [GitLab Pages 部署](blog/deployment/gitlab-pages.md)
+        - [Netlify 部署](blog/deployment/netlify.md)
+        - [自托管部署](blog/deployment/self-hosted.md)
+    - 插件系统
+        - [博客插件详解](blog/plugins/blog.md)
+        - [插件概览](blog/plugins/overview.md)
+        - [RSS 插件配置](blog/plugins/rss.md)
+        - [搜索功能配置](blog/plugins/search.md)
+        - [标签插件使用](blog/plugins/tags.md)
+        - [第三方插件规划（与 MkDocs 插件对应）](blog/plugins/third-party-plugins.md)
+    - 高级主题
+        - [添加评论系统](blog/advanced/comment-system.md)
+        - [自定义 404 页面](blog/advanced/custom-404.md)
+        - [自定义网站字体](blog/advanced/custom-fonts.md)
+        - [Cookie 同意表单配置](blog/advanced/data-privacy.md)
+        - [功能对照表（与 Material for MkDocs）](blog/advanced/feature-parity.md)
+        - [Giscus 评论系统明暗主题同步修复教程](blog/advanced/giscus-theme-sync.md)
+        - [添加 GitHub 热力图卡片](blog/advanced/github-heatmap.md)
+        - [添加 GitHub 仓库卡片](blog/advanced/github-repo-card.md)
+        - [多语言支持 (i18n)](blog/advanced/i18n.md)
+        - [性能优化](blog/advanced/performance.md)
+        - [SEO 优化](blog/advanced/seo.md)
+        - [链接与脚注验证](blog/advanced/validation.md)
+- [关于](about.md)
+- [常见问题](faq.md)
+- [案例展示](showcase.md)
