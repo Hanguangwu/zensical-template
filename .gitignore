@@ -37,13 +37,15 @@ ENV/
 htmlcov/
 .tox/
 
-# IDE / 编辑器
-.idea/
-.vscode/
+# 编辑器缓存与备份
 *.swp
 *.swo
 *~
 *.sublime-workspace
+
+# IDE
+.idea/
+.vscode/
 
 # 操作系统
 .DS_Store
